@@ -3,8 +3,8 @@
 **Course:** Programming with Python (mooc.fi)  
 **Part:** Part 1  
 **Module:** Arithmetic operations  
-**Date:** YYYY-MM-DD  
-**Difficulty:** [Easy / Tricky / Struggled]  
+**Date:** 2026-06-06  
+**Difficulty:** [Easy]  
 **Tags:** `#arithmetic` `#part1`
 
 ---
@@ -18,13 +18,13 @@
 ## My Solution
 
 ```python
-# your code here
+print(":-)")
 ```
 
 ## Model / Best Solution
 
 ```python
-# model code here
+print(":-)")
 ```
 
 ---
